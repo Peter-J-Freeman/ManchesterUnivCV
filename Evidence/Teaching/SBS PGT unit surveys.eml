@@ -1,0 +1,217 @@
+Received: from LO2P265MB0527.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:6a::14)
+ by LO2P265MB3310.GBRP265.PROD.OUTLOOK.COM with HTTPS; Tue, 30 Mar 2021
+ 13:15:19 +0000
+Authentication-Results: manchester.ac.uk; dkim=none (message not signed)
+ header.d=none;manchester.ac.uk; dmarc=none action=none
+ header.from=manchester.ac.uk;
+Received: from LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:10f::12)
+ by LO2P265MB0527.GBRP265.PROD.OUTLOOK.COM (2603:10a6:600:6a::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.33; Tue, 30 Mar
+ 2021 13:15:19 +0000
+Received: from LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::f086:6c0:91c4:dbe7]) by LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM
+ ([fe80::f086:6c0:91c4:dbe7%3]) with mapi id 15.20.3977.033; Tue, 30 Mar 2021
+ 13:15:19 +0000
+From: Kathryn Hentges <Kathryn.Hentges@manchester.ac.uk>
+To: Peter Causey-Freeman <peter.causey-freeman@manchester.ac.uk>
+Subject: SBS PGT unit surveys
+Thread-Topic: SBS PGT unit surveys
+Thread-Index: AQHXJWa745sSlqLQik2nvI0mkpgFmw==
+Date: Tue, 30 Mar 2021 13:15:19 +0000
+Message-ID: <A8781D1E-3C4B-44FF-B099-2881B84A7FFE@manchester.ac.uk>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <A8781D1E-3C4B-44FF-B099-2881B84A7FFE@manchester.ac.uk>
+x-mailer: Apple Mail (2.3445.104.17)
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [82.31.50.232]
+X-MS-Exchange-Organization-Network-Message-Id:
+ 5e8745cb-cae8-45a7-e526-08d8f37dde04
+X-MS-PublicTrafficType: Email
+Return-Path: Kathryn.Hentges@manchester.ac.uk
+X-MS-Exchange-Organization-ExpirationStartTime: 30 Mar 2021 13:15:19.4834
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 5e8745cb-cae8-45a7-e526-08d8f37dde04
+X-MS-TrafficTypeDiagnostic: LO2P265MB0527:
+X-MS-Exchange-Organization-BypassClutter: true
+X-MS-Oob-TLC-OOBClassifiers: OLM:8882;
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-AntiSpam-MessageData:
+ =?us-ascii?Q?isqPz0gI7JCi86XI5HreuZhGMoJGkam6FpbZR0KkBrjCL+vElAAIvF8YngJ+?=
+ =?us-ascii?Q?sxVSTjtFHlMpR2MeVgLmqzZvR3qwPVanxoc+WYZXe3SZIoZwOskOgbPwAcus?=
+ =?us-ascii?Q?IqrdxkTiHc7HksCehCt1BqY/T+kv04wpDGtlYWZOq3VC9BtLkjv3clrS2jZO?=
+ =?us-ascii?Q?6L9CQMQFBBQmYLLFGw9KovUEUhQPNBoqhLORRRBqLDxQe5dCA2usTjBCyteX?=
+ =?us-ascii?Q?LzPYUSPJkGwywpHF40MB/exRUkraWyKxYZjdmmaSbmXGVGUiiNd4S/hZJIn/?=
+ =?us-ascii?Q?RkA70mPvOA+B2Dt8SeMKvZ1gQXyHqjuDZk88s4/vaq7gul7TCRgObaB9ntTS?=
+ =?us-ascii?Q?PGFgyUlkZJ/zrUyU99IO8i87gPLRxSAJ1usNm36ru6+91VKWQleGXkLwpBXe?=
+ =?us-ascii?Q?jYG5Uz87T+fOG4KFMYsO/GBnu9dAmxCeQpB9Qi14bzwrgeQbUQOGQrVo+qbI?=
+ =?us-ascii?Q?5wnw0exiEITf6kGqoQTKWCj8+baRFdN+bzImxOYwPCvu9BZGrGgG5TRgf8wH?=
+ =?us-ascii?Q?MOxqX6VIwStOS69HWWkzb3sDmHj0aV+bN2PRa6wpc0PJ+vjJycHY45k1Fm8t?=
+ =?us-ascii?Q?FGQm6+A/XlzIpsyHEWUx+dklxInvSxFUO++tBgrgWSKgzsPVw/0Ga4Pxt+cz?=
+ =?us-ascii?Q?3Hv7gjkqGfC+2dJnpfzo3sZLtIc8ThXOIUYGhXz+OaAW1HXAESwm4CJwOXqa?=
+ =?us-ascii?Q?xGvxTGf4eYLhyckKzxDcej8n8WHSlxuMm0FJnMPzsfboFFebwiP5gsKKBcnE?=
+ =?us-ascii?Q?+V+0dbZbybOnhR7tdCJZD488SpQuIl0zhwXRb92vsCpxR8z8WQoirI1ic2tt?=
+ =?us-ascii?Q?SBd9kbfRt1dBUnDcfMLrM9l0D99mcKiR7ozqBjstbPY1xFnPecW2ALZwdtvq?=
+ =?us-ascii?Q?m95gsnDPIDOVBTqbJg6u8F9VtziYbaprSbJE0FlpUZcQ59TuACu76NPkv1Vw?=
+ =?us-ascii?Q?LyIOQY9FrzqO8tH8EjRGgF2U9dYKbUpWKk/8/yamdtc5Ou/16Ygo8HdoMSny?=
+ =?us-ascii?Q?r08dW6RlnRWeJU7q8f0HRHw7rJ5hgMcHUAuZqe6BJg9OPt/LTYis9O2XuRw5?=
+ =?us-ascii?Q?LmWIHXCznSw7IEam2O/p7/jHf9UcD3Zo21j2kFfZeU1Gm1wYknaSvzLXWdmx?=
+ =?us-ascii?Q?2fX8tdCOk7iMrV/Hw5st+9vQd9FinwBbltUP4Hy0lFuv2ybBHMBIr8Ir0rjb?=
+ =?us-ascii?Q?++q+uYXPoM1NwUSfDxdrLprHKd46ktnPiJolqfXmGP58cFwz/ajIjIlS9uHU?=
+ =?us-ascii?Q?htknZm+wRzjRh1xrmUNqMwMvYRK1U7MoHQrW/xW+OErNP9oHn34F37MtNEFK?=
+ =?us-ascii?Q?l38l3gtA312jhXW7v/arRsL9?=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Mar 2021 13:15:19.2825
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: c152cb07-614e-4abb-818a-f035cfa91a77
+X-MS-Exchange-CrossTenant-AuthSource: LO3P265MB2412.GBRP265.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5e8745cb-cae8-45a7-e526-08d8f37dde04
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: UT4XDUhIIaRoHhL7j+vkN9dv5cW8DI1dCq+XDobBKOZZsOgdZo+cWi0uLx1dVmnEJVhPKvmIfpAMstYpNZfI34iomtj8H2JjfFZhgTH9Lz4eC0F4xn+AHETRMhlLXHad
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: LO2P265MB0527
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5230619
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3977.033
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750129)(520011016)(706158)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	zynQOjYgmIeGmn52PPUGWo9FAEG2xTQ+rvXqjtjKH4XXSjmbMHVRFui00hDWdzrkI0acwZWaQlqGhdsSlpRACwZlmxMAaCxW98zyHWr8qodXRKWghe2Yb/bQ1cf78WbNCHM9zhwuRh2aFg/yJ2pK+P8pfSWn6UOUWjjKu+rFIluvkBHfXByaJOAbOMGdWm+l9RlrEMOt2DQByNgBJpO5o7LlivOjiKpFcZLp4Xevxo4hmyBofT9p+mcORQ/7729OCJA2hmy9waczi/YQ3fasWl29Z0DxEGQEL0e0hIJ2odpSoQ2X4R7FGms61e4r3C9IURVPHC/DJpUqajnCQfSt3LI8B8d/ZXySoMzNrET4GEPKe+HQs9vHcIOsC7JAYRqE+2P5WcUs7H80XV04OM/yN54Uxzl8n5vM9rnkdf/QtHjhKaJnJhvxAbsVFR2WVRB0+ROoefUufSiU0HPdBHwiDjDAMcwHh4wxoAYgc1uK06GvposHZLG4sqgSTLFo6S2M0CoOK1+ScXDGGCibs2fsx4MNoBwoJtH2tf9sIbF/aQxlOIeuEpj8/dl5whLQLGOlkUL3qFu5/2fxPtD1ebcHc+VpqXqQ6kdOEQS/o143F3z9ue8VdiOtidOX08c6Qpkv
+Content-type: multipart/alternative;
+	boundary="B_3700546874_1079624570"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3700546874_1079624570
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Dear Peter,
+         I hope you are well. As part of my role as SBS PGT student experience lead, I review data from the unit surveys. I wanted to take this opportunity to congratulate you on receiving excellent scores from the students for your teaching on BIOL60860.  Thank you for the time and effort you put into your teaching in this challenging year. It is certainly appreciated and helps provide our students with an excellent postgraduate study experience.
+
+Best wishes,
+Kathy
+
+
+
+Kathryn Hentges, PhD
+Reader, SFHEA
+Division of Evolution and Genomic Sciences
+School of Biological Sciences
+Faculty of Biology, Medicine and Health
+Manchester Academic Health Sciences Centre
+University of Manchester
+Michael Smith Building 
+Oxford Road
+Manchester M13 9PT UK
+Tel +44 (0)161 275 1490
+kathryn.hentges@manchester.ac.uk
+
+
+
+
+
+
+--B_3700546874_1079624570
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></head><=
+body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; line-break: aft=
+er-white-space;" class=3D"">Dear Peter,<div class=3D"">&nbsp;&nbsp;&nbsp;&nbsp; =
+&nbsp; &nbsp; I hope you are well. As part of my role as SBS PGT student exp=
+erience lead, I review data from the unit surveys. I wanted to take this opp=
+ortunity to congratulate you on receiving excellent scores from the students=
+ for your teaching on BIOL60860. &nbsp;Thank you for the time and effort you=
+ put into your teaching in this challenging year. It is certainly appreciate=
+d and helps provide our students with an excellent postgraduate study experi=
+ence.<div class=3D""><br class=3D""></div><div class=3D"">Best wishes,</div><div c=
+lass=3D"">Kathy</div><div class=3D""><br class=3D""></div><div class=3D""><br class=3D=
+""></div><div class=3D""><br class=3D""></div><div class=3D""><div dir=3D"auto" styl=
+e=3D"word-wrap: break-word; -webkit-nbsp-mode: space; line-break: after-white-=
+space;" class=3D""><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-align: start;=
+ text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Kathryn Hentges=
+, PhD</div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-=
+family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; text-align: start; text-=
+indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -=
+webkit-text-stroke-width: 0px; text-decoration: none;">Reader, SFHEA</div><d=
+iv style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helve=
+tica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-w=
+eight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-s=
+troke-width: 0px; text-decoration: none;">Division of Evolution and Genomic =
+Sciences</div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); fo=
+nt-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps=
+: normal; font-weight: normal; letter-spacing: normal; text-align: start; te=
+xt-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px=
+; -webkit-text-stroke-width: 0px; text-decoration: none;">School of Biologic=
+al Sciences</div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);=
+ font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-c=
+aps: normal; font-weight: normal; letter-spacing: normal; text-align: start;=
+ text-indent: 0px; text-transform: none; white-space: normal; word-spacing: =
+0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Faculty of Biol=
+ogy, Medicine and Health</div><div style=3D"caret-color: rgb(0, 0, 0); color: =
+rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; f=
+ont-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-=
+align: start; text-indent: 0px; text-transform: none; white-space: normal; w=
+ord-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Ma=
+nchester Academic Health Sciences Centre</div><div style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-=
+style: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; text-align: start; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decor=
+ation: none;">University of Manchester</div><div style=3D"caret-color: rgb(0, =
+0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-st=
+yle: normal; font-variant-caps: normal; font-weight: normal; letter-spacing:=
+ normal; text-align: start; text-indent: 0px; text-transform: none; white-sp=
+ace: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decorat=
+ion: none;">Michael Smith Building&nbsp;</div><div style=3D"caret-color: rgb(0=
+, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-=
+style: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; text-align: start; text-indent: 0px; text-transform: none; white-=
+space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decor=
+ation: none;">Oxford Road</div><div style=3D"caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text=
+-align: start; text-indent: 0px; text-transform: none; white-space: normal; =
+word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">M=
+anchester M13 9PT UK</div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(=
+0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-=
+variant-caps: normal; font-weight: normal; letter-spacing: normal; text-alig=
+n: start; text-indent: 0px; text-transform: none; white-space: normal; word-=
+spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Tel +4=
+4 (0)161 275 1490</div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, =
+0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; word-spa=
+cing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><a href=3D"=
+mailto:kathryn.hentges@manchester.ac.uk" class=3D"">kathryn.hentges@manchester=
+.ac.uk</a></div><div style=3D"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); =
+font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ca=
+ps: normal; font-weight: normal; letter-spacing: normal; text-align: start; =
+text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0=
+px; -webkit-text-stroke-width: 0px; text-decoration: none;" class=3D""><br cla=
+ss=3D""></div><br class=3D"Apple-interchange-newline"></div><br class=3D"Apple-int=
+erchange-newline"></div><br class=3D""></div></body></html>
+
+--B_3700546874_1079624570--
+
